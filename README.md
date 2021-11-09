@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @esther-oids
 - 👀 I’m interested in software development, videogames, music and art in general. 
-- 🌱 I’m currently learning a little bit of everything! But mostly React and JavaScript :D
+- 🌱 I’m currently learning a little bit of everything! I mostly work with Swift, JavaScript, p5.js and node.js :D
 - 💞️ I’m looking to collaborate on Open Source projects, game development, mobile apps and web applications. 
 - 📫 How to reach me: [website] = https://estherangelo.com/ / [instagram] = @flusserfan 
 <!---
